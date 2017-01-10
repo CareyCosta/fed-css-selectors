@@ -17,3 +17,8 @@ h2 {
 .item-even {
   background-color: gray;
 }
+
+.item-odd {
+  background-color: black;
+  color: white;
+}
