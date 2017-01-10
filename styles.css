@@ -32,3 +32,7 @@ h2 {
 #item2 {
   text-align: right;
 }
+
+.exercises span:nth-child(1n+0) {
+  background-color: gray;
+}
