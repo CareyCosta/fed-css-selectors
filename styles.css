@@ -9,6 +9,11 @@ h2 {
 .class-list {
   list-style-type: square;
 }
+
 .item {
   border-color: black;
+}
+
+.item-even {
+  background-color: gray;
 }
