@@ -5,3 +5,10 @@ h1 {
 h2 {
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
+
+.class-list {
+  list-style-type: square;
+}
+.item {
+  border-color: black;
+}
