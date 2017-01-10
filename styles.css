@@ -1,3 +1,5 @@
+
+
 h1 {
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
@@ -21,4 +23,12 @@ h2 {
 .item-odd {
   background-color: black;
   color: white;
+}
+
+#item1 {
+  font-size: 30px;
+}
+
+#item2 {
+  text-align: right;
 }
