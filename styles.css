@@ -35,4 +35,5 @@ h2 {
 
 .exercises span:nth-child(1n+0) {
   background-color: gray;
+  padding-left: 30px;
 }
