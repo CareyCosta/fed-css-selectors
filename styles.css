@@ -33,7 +33,11 @@ h2 {
   text-align: right;
 }
 
-.exercises span:nth-child(1n+0) {
+#advanced-selectors li p {
   background-color: gray;
   padding-left: 30px;
+}
+
+#advanced-selectors ol li:nth-child(odd) p {
+  background-color: green;
 }
